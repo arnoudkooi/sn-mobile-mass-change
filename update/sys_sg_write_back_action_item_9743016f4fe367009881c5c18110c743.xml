@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+	
+	var grCI = new GlideRecord('cmdb_ci');
+	grCI.addQuery("sys_id", getSysIds());
+	grCI.query();
+	grCI.setValue('install_status', input.install_status);
+	grCI.updateMultiple();
+	
+	
+	function getSysIds(){
+		var sys_ids = [];
+		var grCM = new GlideRecord('x_snc_mobile_mass_mass_change_ci');
+		grCM.addEncodedQuery("userDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true");
+		grCM.query();
+		while (grCM.next()) {
+			sys_ids.push(grCM.getValue('ci'));
+		}
+		return sys_ids;
+	}
+	
+})(input);]]></execution_script>
+        <name>mass_update_update_status</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-02-16 20:09:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9743016f4fe367009881c5c18110c743</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>mass_update_update_status</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_9743016f4fe367009881c5c18110c743</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-02-16 20:16:18</sys_updated_on>
+        <table/>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

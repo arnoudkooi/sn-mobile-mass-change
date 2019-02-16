@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3b36a0634fa367009881c5c18110c755" sys_domain="global" table="x_snc_mobile_mass_mass_change_ci" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:44</sys_created_on>
+            <sys_id>b736a0634fa367009881c5c18110c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:44</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:44</sys_created_on>
+            <sys_id>bf36a0634fa367009881c5c18110c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ci</element>
+            <position>2</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:44</sys_created_on>
+            <sys_id>3336a0634fa367009881c5c18110c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:44</sys_created_on>
+            <sys_id>b336a0634fa367009881c5c18110c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>4</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:45</sys_created_on>
+            <sys_id>3736a0634fa367009881c5c18110c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:45</sys_created_on>
+            <sys_id>b736a0634fa367009881c5c18110c782</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>6</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 20:46:38</sys_created_on>
+            <sys_id>97fb05674f2767009881c5c18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_mobile_mass_mass_change_ci" sys_domain="global" view="Default view">3b36a0634fa367009881c5c18110c755</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 20:46:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_mobile_mass_mass_change_ci</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-02-16 18:01:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b36a0634fa367009881c5c18110c755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_mobile_mass_mass_change_ci</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+            <sys_update_name>sys_ui_section_3b36a0634fa367009881c5c18110c755</sys_update_name>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-02-16 18:01:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

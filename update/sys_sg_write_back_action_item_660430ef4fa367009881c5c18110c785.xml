@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>mass_update_remove_ci</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-02-16 19:02:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>660430ef4fa367009881c5c18110c785</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mass_update_remove_ci</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_660430ef4fa367009881c5c18110c785</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-02-16 20:14:12</sys_updated_on>
+        <table>x_snc_mobile_mass_mass_change_ci</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="mass_update_queue">1868a4e34fa367009881c5c18110c721</data_item>
+        <description>List of CI's for mass change</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">9fe86ce34fa367009881c5c18110c7f7</icon>
+        <item_view display_value="CI Queue detail item view">d3e8a0e34fa367009881c5c18110c7c5</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>efe8a0e34fa367009881c5c18110c7c7</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>efe8ace34fa367009881c5c18110c715</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_details_screen_efe8ace34fa367009881c5c18110c715</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-02-16 18:14:13</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

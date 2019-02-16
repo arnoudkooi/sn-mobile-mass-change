@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mass Change CI" max_length="40" name="x_snc_mobile_mass_mass_change_ci" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Change" max_length="32" name="change" reference="change_request" type="reference"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="CI" max_length="32" name="ci" reference="cmdb_ci" type="reference" use_dynamic_default="true"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="ci"/>
+        </index>
+        <index name="index2">
+            <element name="change"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-02-16 21:02:29</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-02-16 20:17:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f665cdaf4fe367009881c5c18110c79c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>465FCA1B55AEBE9DC098B61499BB865AAC01B926480846893666B058000BAA89</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_f665cdaf4fe367009881c5c18110c79c</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-02-16 21:02:29</sys_updated_on>
+        <sys_user_id display_value="Arnoud Kooi">8bd7898ddbab32008eab5cd4dc9619ef</sys_user_id>
+        <token>465FCA1B55AEBE9DC098B61499BB865AAC01B926480846893666B058000BAA89</token>
+    </sys_push_notif_app_install>
+</record_update>

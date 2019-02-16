@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="mass_update_queue">1868a4e34fa367009881c5c18110c721</data_item>
+        <dependency_fields>ci.asset_tag,ci.install_status,ci,ci.location,ci.sys_updated_on</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Right","studio_template_field_id":"E1","MaxLines":1,"Font":{"Size":15,"Weight":"regular"},"CellId":"ci.asset_tag"}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#4F5966","TextAlignment":"Right","studio_template_field_id":"E2","MaxLines":1,"Font":{"Weight":"bold","Size":14},"CornerRadius":2,"CellId":"ci.install_status"}]}]},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E3","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"ci"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":10},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${ci.location}"},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"ci.location"}]},{"Type":"ViewGroup","Margin":{"Top":5},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${ci.sys_updated_on}"},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"ci.sys_updated_on"}]}]}],"studio_card_id":"dfbc0cd573812300d396c8168bf6a789"}</item_view_json>
+        <name>CI Queue item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-02-16 18:13:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>93e8a4e34fa367009881c5c18110c755</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CI Queue item view</sys_name>
+        <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
+        <sys_update_name>sys_sg_item_view_93e8a4e34fa367009881c5c18110c755</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-02-16 20:22:07</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>
